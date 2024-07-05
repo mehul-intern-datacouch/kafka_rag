@@ -1,0 +1,13 @@
+boto3
+awscli
+pypdf
+langchain
+streamlit
+faiss-cpu
+langchain_community
+google-generativeai
+python-dotenv
+PyPDF2
+langchain_google_genai
+groq
+langchain_groq
